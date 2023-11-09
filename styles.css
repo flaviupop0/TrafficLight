@@ -1,0 +1,33 @@
+#margin {
+    height: 170px;
+    width: 100px;
+    border-style:solid;
+    background-color: black;
+    margin: auto;
+}
+
+#button {
+    margin: 5px;
+    width: 150px;
+    font-size: 15px;
+    text-align: center;
+    height: 50px;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+}
+
+.semafor {
+    height: 50px;
+    width: 50px;
+    border-style: solid;
+    border-radius: 500px;
+    margin: auto;
+    background-color: white;
+}
+
+#red {
+    background-color: red;
+}
